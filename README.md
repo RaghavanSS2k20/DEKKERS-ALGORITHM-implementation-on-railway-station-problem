@@ -1,5 +1,5 @@
 # DEKKERS-ALGORITHM-implementation-on-railway-station-problem
-LET US ASSUME THAT THERE ARE TWO TRACKS AND ONE CROSS. IT IS OBIVIOUS THAT ONLY ONE TRAIN MUST PASS THROUGH THE CROSS AT A TIME SINCE THERE ARE TWO TRACKS LET US ASSUME THAT DRIVING A TRAIN FROM TRACK ONE AND TWO ARE THREADS ONE AND TWO RESPECTIVELY...AND HENCE CROSS IS CRITICAL SYSTEM WHICH IMPLIES THIS IS A CRITICAL SECTION PROBLEM
+let us assume that there are two tracks and one cross. it is obvious that only one train must pass through the cross at a time since there are two tracks let us assume that driving a train from track one and two are threads one and two respectively...and hence cross is critical system which implies this is a critical section problem
 
 
 #############################################################################################################################################
