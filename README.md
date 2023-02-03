@@ -4,8 +4,8 @@ let us assume that there are two tracks and one cross. it is obvious that only o
 
 #############################################################################################################################################
 #   IMPLEMENTING DEKKERS ALGORITHM IN A RAILWAY STATION SCENARIO:
-# Imagine that there are two railroads say A and B both meets at a cross and joins to a single railroad.Defenitely both trains cannot #
-# access cross at same time. Clearly it is an critical section problem. let us solve using dekkers algo the first known algo for cs problem
+Imagine that there are two railroads say A and B both meets at a cross and joins to a single railroad.Defenitely both trains cannot #
+access cross at same time. Clearly it is an critical section problem. let us solve using dekkers algo the first known algo for cs problem
 # THE ALGORITHM:-
 var flag: array [0..1] of boolean;
 turn: 0..1;
